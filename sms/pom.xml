@@ -11,6 +11,10 @@
 
     <artifactId>sms</artifactId>
 
+    <properties>
+        <start-class>com.magikarpll.java.sms.Application</start-class>
+    </properties>
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.nexmo/client -->
         <dependency>
