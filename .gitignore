@@ -1,2 +1,5 @@
 # Project exclude paths
 /sms/target/
+#Directories
+/.idea/
+/logs/
