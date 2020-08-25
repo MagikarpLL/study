@@ -21,6 +21,8 @@
         <module>security</module>
         <module>BasicJava</module>
         <module>ProjectRelated</module>
+        <module>0-jvm</module>
+        <module>1-java</module>
     </modules>
 
     <dependencies>
