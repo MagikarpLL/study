@@ -3,3 +3,7 @@
 #Directories
 /.idea/
 /logs/
+/1-java/target/
+/BasicJava/target/
+/cas/target/
+/security/target/
